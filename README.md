@@ -26,9 +26,10 @@ Citation | Line Value
 - Subject
 
 #### Format of Note Repos
-**notes.txt** file which contains all the notes for the class. <br/>
+**\*.md** file which contains all the notes for the class in markdown or any other approved mark up language. Users have the flexability to organize thier notest the way they see fit. .sln files apply to the directory they are in and all text files within that directory will be taken as notes unless specificall ignored in the .slnignore file. <br/>
 **images/** folder which contains any images linked to from the notes file. <br/>
-**.sln** file containing the data subject, year, class and other information related to the class and notes such as professor, course description, note taker.
+**.sln** file containing the data subject, year, class and other information related to the class and notes such as professor, course description, note taker. <br/>
+**.slnignore** file containing a list of all the files SLN should ignore when looking for notes to analize.
 
 ## Proposals for Data Mining
 
