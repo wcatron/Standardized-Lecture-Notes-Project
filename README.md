@@ -45,8 +45,8 @@ From Notes FYW/2014/Homer and History/Liberal Arts/4
 
 Human Interpretation of Key words
 
--liberal arts
--liberal arts education
+- liberal arts
+- liberal arts education
 
 Process
 
@@ -86,5 +86,7 @@ Process
 3. Complete steps 1 & 2 for several topics that contained the original keyword.
 4. Compare the results from dataset looking for overlapse. Rank based on frequency and distance from original key term.
 
+###### Conclusion
+The heiarchy of the data is very important in the algorithms ability to determine the context of the key terms. It is however possible to return related key terms accuratly given a large enough dataset. By analysing nearby keyterms. Creating an additional database relating key terms with topics would allow for quick queries for topic's keywords.
 
 
