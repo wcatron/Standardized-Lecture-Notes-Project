@@ -1,4 +1,4 @@
-Standardized-Lecture-Notes-Project
+Standardized Lecture Notes Project (SLN Project)
 ==================================
 
 A look into the power technology can have to bring together scholars from many disciplines to help each other discover new knowledge.
@@ -23,5 +23,21 @@ Citation | Line Value
 - Class - school-department-course-section
 - Year
 - Subject
+
+## Proposals for Data Mining
+
+#### Determine Key Terms
+The purpose of the algorithm is to help other scholars find information that they would find important. In that respect it is the duty of the program to sift through a large dataset of notes to determine what is valuable and what is not. Notes should have an initial scrubbing of all words and phrases that the computer has no need for when creating relationships of key terms.
+
+To start discovering how key terms should be found we must look at examples of key terms.
+
+###### Examples of Key Terms
+- Plato
+- Ohm's Law
+- July 4th
+- Independance Day
+- Dark Ages
+- Knossos Tablet
+
 
 
