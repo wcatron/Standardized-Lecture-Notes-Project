@@ -26,8 +26,8 @@ Citation | Line Value
 - Subject
 
 #### Format of Note Repos
-*notes.txt* file which contains all the notes for the class.\n
-*images/* folder which contains any images linked to from the notes file. \n
+*notes.txt* file which contains all the notes for the class. <br/>
+*images/* folder which contains any images linked to from the notes file. <br/>
 *.sln* file containing the data subject, year, class and other information related to the class and notes such as professor, course description, note taker.
 
 ## Proposals for Data Mining
