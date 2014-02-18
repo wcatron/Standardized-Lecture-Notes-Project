@@ -8,9 +8,9 @@ Standardized-Lecture-Notes-Project
 2. Establish a list of suitable mark up languages.
 3. Develop an algorithm that sifts through the repositories and relates subjects to eachother.
 
-Examples of relationships: "Word Plato"
-PHY/2014/Intro/Plato/203 Socrates was portrayed in the writings of Plato as a person who questioned others.
-CLS/2008/Athens/Plato/159 Plato captured a lot of culture in the writing he did.
+#### Examples of relationships: "Word Plato"
+**PHY/2014/Intro/Plato/203** *Socrates was portrayed in the writings of Plato as a person who questioned others.*
+**CLS/2008/Athens/Plato/159** *Plato captured a lot of culture in the writing he did.*
 
 ## Heiarchy of Data
 - Line
