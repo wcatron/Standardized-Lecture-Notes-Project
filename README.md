@@ -51,12 +51,19 @@ Human Interpretation of Key words
 Process
 
 1. Ignored common words "all","realms","in"
+
     *problems are multidisaplinary, liberal arts education supports decision making | those.*
+
 2. Ignored common verbs "are", "making", "supports"
+
     *problems | multidisaplinary, liberal arts education | decision | those*
+
 3. Assumed Punctuation denotes seperation of ideas and therfore seperates possible keywords.
+
     *problems | multidisaplinary | liberal arts education | decision | those*
+
 4. Draw from knowledge of common words, "decision", "those", "problems" 
+
     *multidisaplinary | liberal arts education"
 
 Requirements
@@ -70,7 +77,7 @@ To make this solution effectve there needs to be a large amount of preproccessin
 The possible solution would be to create a database of every word used and the number of times it is used and a human flag for importance. A secondary database contains known important words and relates them to lines in the scholars notes.
 
 #### Determine Context
-Notes are organized into topics and sub-topics often going many levels deep. The tree based approach is ideal for interpretting context for the data. Searching "Hemmingway" can give return a citation with the following after the file /filename/20th Century Authors/Hemmingway/Influence *Hemmingway's understated style caught the attention of those around him.* By using the context we can assume that Hemmingway has something to do with "20th Century Authors", obviosly with "Hemmingway" and the "Influence" is his own but would not be a key word. By taking each supertopic's keywords we can create a map for the related topics. By using several different sources we can determine what other information is nessesary to understand Hemmingway in context.
+Notes are organized into topics and sub-topics often going many levels deep. The tree based approach is ideal for interpretting context for the data. Searching "Hemmingway" can return a citation with the following after the file /filename/20th Century Authors/Hemmingway/Influence *Hemmingway's understated style caught the attention of those around him.* By using the context we can assume that Hemmingway has something to do with "20th Century Authors", obviosly with "Hemmingway" and the "Influence" is his own but would not be a key word. By taking each supertopic's keywords we can create a map for the related topics. By using several different sources we can determine what other information is nessesary to understand Hemmingway in context.
 
 Process
 
