@@ -39,5 +39,19 @@ To start discovering how key terms should be found we must look at examples of k
 - Dark Ages
 - Knossos Tablet
 
+From Notes FYW/2014/Homer and History/Liberal Arts/4
+> -All problems are multidisaplinary, liberal arts education supports decision making in those realms.
 
+Human Interpretation of Key words
+-liberal arts
+-liberal arts education
 
+Process
+1. Ignored common words "all","realms","in"
+    *problems are multidisaplinary, liberal arts education supports decision making | those.*
+2. Ignored common verbs "are", "making", "supports"
+    *problems | multidisaplinary, liberal arts education | decision | those*
+3. Assumed Punctuation denotes seperation of ideas and therfore seperates possible keywords.
+    *problems | multidisaplinary | liberal arts education | decision | those*
+4. Draw from knowledge of common words, "decision", "those", "problems" 
+    *multidisaplinary | liberal arts education"
