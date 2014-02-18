@@ -1,5 +1,4 @@
 #Understanding Security and The Security Process
-================================================
 
 ##The Security Model
 
