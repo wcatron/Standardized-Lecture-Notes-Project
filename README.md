@@ -26,7 +26,7 @@ Citation | Line Value
 - Subject
 
 #### Format of Note Repos
-**\*.md** file which contains all the notes for the class in markdown or any other approved mark up language. Users have the flexability to organize thier notest the way they see fit. .sln files apply to the directory they are in and all text files within that directory will be taken as notes unless specificall ignored in the .slnignore file. <br/>
+**\*.md** file which contains all the notes for the class in markdown or any other approved mark up language. Users have the flexability to organize thier notes the way they see fit. All text files within the directory will be taken as notes unless specificaly ignored in the .slnignore file. <br/>
 **images/** folder which contains any images linked to from the notes file. <br/>
 **.sln** file containing the data subject, year, class and other information related to the class and notes such as professor, course description, note taker. <br/>
 **.slnignore** file containing a list of all the files SLN should ignore when looking for notes to analize.
@@ -46,10 +46,10 @@ To start discovering how key terms should be found we must look at examples of k
 - Dark Ages
 - Knossos Tablet
 
-From Notes FYW/2014/Homer and History/Liberal Arts/4
+From Notes FYW/2014/FU-FYW-1141-01/wcatron/Liberal Arts/4
 > -All problems are multidisaplinary, liberal arts education supports decision making in those realms.
 
-Human Interpretation of Key words
+###### Human Interpretation of Key words
 
 - liberal arts
 - liberal arts education
@@ -68,7 +68,7 @@ Process
 
     *problems | multidisaplinary | liberal arts education | decision | those*
 
-4. Draw from knowledge of common words, "decision", "those", "problems" 
+4. Drew from knowledge of common words, "decision", "those", "problems" 
 
     *multidisaplinary | liberal arts education"
 
