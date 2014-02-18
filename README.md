@@ -32,8 +32,10 @@ Citation | Line Value
 
 ## Proposals of Valid Mark Up Languages
 
-1. MarkDown
-2. LaTeX
+1. MarkDown (.md)
+2. LaTeX (.tex)
+3. Wiki Markup (.txt)
+4. reStructuredText (.rst)
 
 ## Proposals for Data Mining
 
