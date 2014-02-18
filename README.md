@@ -20,9 +20,8 @@ Citation | Line Value
 - Topic
 - Supertopic
 - File
-- as of Commit
+- as of Commit (Year Month Date can be infered based on this)
 - Class - school-department-course-section
-- Year
 - Subject
 
 #### Format of Note Repos
@@ -30,6 +29,11 @@ Citation | Line Value
 **images/** folder which contains any images linked to from the notes file. <br/>
 **.sln** file containing the data subject, year, class and other information related to the class and notes such as professor, course description, note taker. <br/>
 **.slnignore** file containing a list of all the files SLN should ignore when looking for notes to analize.
+
+## Proposals of Valid Mark Up Languages
+
+1. MarkDown
+2. LaTeX
 
 ## Proposals for Data Mining
 
